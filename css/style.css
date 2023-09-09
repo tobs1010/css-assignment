@@ -27,7 +27,7 @@ color: #ffffff;
 }
 .dark{
     padding: 15px;
-    background: rgb(24, 24, 79);
+    background: rgb(34, 26, 26);
     color: #ffffff;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -35,7 +35,7 @@ color: #ffffff;
 
 /* header */
 header{
-    background: rgb(24, 24, 79);
+    background: rgb(34, 26, 26);
     color: #ffffff;
     padding-top: 30px;
     min-height: 70px;
@@ -101,7 +101,7 @@ header a:hover{
 #newsletter{
     padding: 15px;
     color: #ffffff;
-    background:rgb(24, 24, 79);
+    background: rgb(34, 26, 26);
 }
 
 #newsletter h1{
